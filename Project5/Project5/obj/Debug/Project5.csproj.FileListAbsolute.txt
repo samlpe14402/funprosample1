@@ -1,0 +1,10 @@
+\\peter\ZDrive\00014402\My Documents\VS\Project5\Project5\bin\Debug\Project5.exe.config
+\\peter\ZDrive\00014402\My Documents\VS\Project5\Project5\bin\Debug\Project5.exe
+\\peter\ZDrive\00014402\My Documents\VS\Project5\Project5\bin\Debug\Project5.pdb
+\\peter\ZDrive\00014402\My Documents\VS\Project5\Project5\obj\Debug\Project5.csprojAssemblyReference.cache
+\\peter\ZDrive\00014402\My Documents\VS\Project5\Project5\obj\Debug\Project5.Form1.resources
+\\peter\ZDrive\00014402\My Documents\VS\Project5\Project5\obj\Debug\Project5.Properties.Resources.resources
+\\peter\ZDrive\00014402\My Documents\VS\Project5\Project5\obj\Debug\Project5.csproj.GenerateResource.cache
+\\peter\ZDrive\00014402\My Documents\VS\Project5\Project5\obj\Debug\Project5.csproj.CoreCompileInputs.cache
+\\peter\ZDrive\00014402\My Documents\VS\Project5\Project5\obj\Debug\Project5.exe
+\\peter\ZDrive\00014402\My Documents\VS\Project5\Project5\obj\Debug\Project5.pdb
